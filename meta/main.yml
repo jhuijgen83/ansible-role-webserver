@@ -1,5 +1,5 @@
 galaxy_info:
-  rol_name: webserver
+  role_name: webserver
   author: Jos Huijgen
   description: Installeert Apache, PHP en een testpagina
   company: your company (optional)
